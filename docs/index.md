@@ -1,4 +1,4 @@
-<div>Teachable Machine Image Model</div>
+<div>This is Teachable Machine Image Model demo</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
